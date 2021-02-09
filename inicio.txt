@@ -1,3 +1,4 @@
 Testando o git nessa pasta
 segunda linha
 terceira linha
+quarta linha
